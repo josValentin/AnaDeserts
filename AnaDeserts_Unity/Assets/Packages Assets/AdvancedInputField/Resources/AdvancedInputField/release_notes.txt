@@ -1,0 +1,5 @@
+2.1.1:
+- Hotfix release to fix errors when expanding General tab in inspector
+
+2.1.0:
+- RichTextBindings functionality and multiple bugfixes

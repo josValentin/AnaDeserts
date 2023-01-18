@@ -1,0 +1,3 @@
+2.1.1:
+- Bugfix: Fixed errors when expanding General tab in inspector
+- Improvement: Added SetTextAndPreserveSelection() method to try to keep the caret/selection positions when changing the text

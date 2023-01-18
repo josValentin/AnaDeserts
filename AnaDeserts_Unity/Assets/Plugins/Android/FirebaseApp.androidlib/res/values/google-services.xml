@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources tools:keep="@string/gcm_defaultSenderId,@string/google_storage_bucket,@string/project_id,@string/google_api_key,@string/google_crash_reporting_api_key,@string/google_app_id,@string/default_web_client_id" xmlns:tools="http://schemas.android.com/tools">
+  <string name="gcm_defaultSenderId" translatable="false">499913122888</string>
+  <string name="google_storage_bucket" translatable="false">ana-s-skull-truffles-project.appspot.com</string>
+  <string name="project_id" translatable="false">ana-s-skull-truffles-project</string>
+  <string name="google_api_key" translatable="false">AIzaSyBzL_Ymx2JAqVSfFhWobp-hFc2YXOfrKmo</string>
+  <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBzL_Ymx2JAqVSfFhWobp-hFc2YXOfrKmo</string>
+  <string name="google_app_id" translatable="false">1:499913122888:android:f1ad6bd229ffe30952647d</string>
+  <string name="default_web_client_id" translatable="false">499913122888-d94d59he5br3davbkt68l1ciq5i2n8s7.apps.googleusercontent.com</string>
+</resources>

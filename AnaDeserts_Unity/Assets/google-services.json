@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "499913122888",
+    "project_id": "ana-s-skull-truffles-project",
+    "storage_bucket": "ana-s-skull-truffles-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:499913122888:android:f1ad6bd229ffe30952647d",
+        "android_client_info": {
+          "package_name": "com.AnasSkull.PedidosTrufa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "499913122888-d94d59he5br3davbkt68l1ciq5i2n8s7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBzL_Ymx2JAqVSfFhWobp-hFc2YXOfrKmo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "499913122888-d94d59he5br3davbkt68l1ciq5i2n8s7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
